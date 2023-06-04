@@ -32,6 +32,7 @@ gcloud config configurations list
 gcloud config configurations activate my-default-configuration
 gcloud config list
 gcloud config configurations describe my-second-configuration
+
 gcloud compute instances list
 gcloud compute instances create
 gcloud compute instances create my-first-instance-from-gcloud
