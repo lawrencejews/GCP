@@ -33,7 +33,7 @@ spec:
     metadata:
       creationTimestamp: null
       labels:
-        app: my-first-deployment
+         app: my-first-deployment
     spec:
       containers:
       - image: stacksimplify/kubenginx:3.0.0
